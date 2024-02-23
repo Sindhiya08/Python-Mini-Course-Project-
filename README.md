@@ -1,10 +1,9 @@
 # Python-Mini-Course-Project-
 
-## 1.Write a program to find out the prime numbers
+* 1.Write a program to find out the prime numbers *
 
 
 2.write a program to create the equation (a+b+c) * (a-b-c) * ab + a^2 + b ^2 + (abc)^3
-
 
 
 
@@ -21,7 +20,6 @@
 
 
 7.Using class and function - Write a program for palindrome Ex. Madam
-
 
 
 8.using file handling – write a text file in ur system with “hello world”
