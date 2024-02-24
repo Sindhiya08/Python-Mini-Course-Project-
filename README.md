@@ -1,14 +1,13 @@
 # Python-Mini-Course-Project-
 
   ### 1.Write a program to find out the prime numbers
-
+          
 
   ### 2.write a program to create the equation (a+b+c) * (a-b-c) * ab + a^2 + b ^2 + (abc)^3
-
-
+  
 
   ### 3. urlist = ['wood','knife','axe'] , mylist = ['tree', 'apple', 'mango', 'melon'] – combine two lists
-
+          
 
   ### 4.write a program for natural number based on user input
 
